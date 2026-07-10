@@ -29,7 +29,7 @@ I lead end-to-end testing for complex enterprise releases, combining test strate
 
 `Oracle E-Business Suite` `qTest` `HP ALM / Quality Center` `Jira` `Postman` `PL/SQL` `Livelink` `GitHub`
 
-I also use tools such as GitHub, ChatGPT, Copilot, Gemini, and Perplexity to support research, documentation, analysis, and workflow improvement.
+I also use tools such as ChatGPT, GitHub Copilot, Gemini, Claude and Perplexity to support research, documentation, analysis, and workflow improvement.
 
 ## Projects in development
 
