@@ -31,6 +31,24 @@ I lead end-to-end testing for complex enterprise releases, combining test strate
 
 I also use tools such as GitHub, ChatGPT, Copilot, Gemini, and Perplexity to support research, documentation, analysis, and workflow improvement.
 
+## Projects in development
+
+### [AtlasBadge](https://atlas-badge.vercel.app/)
+
+An interactive travel platform where users can track places they have visited, manage travel statuses, and build a public traveller profile.
+
+My involvement includes product definition, requirements analysis, manual testing, exploratory testing, workflow validation, defect investigation, and AI-assisted development coordination.
+
+> Status: Work in progress — the application is actively being developed and tested.
+
+### [ChronoFoot](https://chronofoot.vercel.app/)
+
+A football game and management project focused on match simulation, gameplay systems, progression, and user experience.
+
+My involvement includes product planning, feature definition, game-flow validation, exploratory testing, defect reporting, regression testing, and coordinating implementation through AI-assisted development tools.
+
+> Status: Work in progress — features, interface, and game systems are still evolving.
+
 ## QA portfolio
 
 I am building this GitHub as a practical portfolio focused on how I approach software quality, testing, risk, and leadership—not only on automation code.
